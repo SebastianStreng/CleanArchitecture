@@ -1,12 +1,188 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\strengs\\source\\repos\\CleanArchitecture\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03075182-FCCE-4B0B-9891-7589EB738B79}|src\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|c:\\users\\strengs\\source\\repos\\cleanarchitecture\\src\\cleanarchitecture.presentation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03075182-FCCE-4B0B-9891-7589EB738B79}|src\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:src\\cleanarchitecture.presentation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03075182-FCCE-4B0B-9891-7589EB738B79}|src\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|c:\\users\\strengs\\source\\repos\\cleanarchitecture\\src\\cleanarchitecture.presentation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{03075182-FCCE-4B0B-9891-7589EB738B79}|src\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:src\\cleanarchitecture.presentation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03075182-FCCE-4B0B-9891-7589EB738B79}|src\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|c:\\users\\strengs\\source\\repos\\cleanarchitecture\\src\\cleanarchitecture.presentation\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{03075182-FCCE-4B0B-9891-7589EB738B79}|src\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:src\\cleanarchitecture.presentation\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03075182-FCCE-4B0B-9891-7589EB738B79}|src\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|c:\\users\\strengs\\source\\repos\\cleanarchitecture\\src\\cleanarchitecture.presentation\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03075182-FCCE-4B0B-9891-7589EB738B79}|src\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:src\\cleanarchitecture.presentation\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A5E3F3-6BA4-4189-A05E-8DCB8D7505D1}|src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|c:\\users\\strengs\\source\\repos\\cleanarchitecture\\src\\cleanarchitecture.infrastructure\\external\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A5E3F3-6BA4-4189-A05E-8DCB8D7505D1}|src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|solutionrelative:src\\cleanarchitecture.infrastructure\\external\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A5E3F3-6BA4-4189-A05E-8DCB8D7505D1}|src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|c:\\users\\strengs\\source\\repos\\cleanarchitecture\\src\\cleanarchitecture.infrastructure\\cleanarchitecture.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61A5E3F3-6BA4-4189-A05E-8DCB8D7505D1}|src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|solutionrelative:src\\cleanarchitecture.infrastructure\\cleanarchitecture.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE715D8-1ED2-458D-8FD1-0A2047EBD982}|src\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\strengs\\source\\repos\\cleanarchitecture\\src\\cleanarchitecture.application\\services\\businesslogicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE715D8-1ED2-458D-8FD1-0A2047EBD982}|src\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:src\\cleanarchitecture.application\\services\\businesslogicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE715D8-1ED2-458D-8FD1-0A2047EBD982}|src\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\strengs\\source\\repos\\cleanarchitecture\\src\\cleanarchitecture.application\\interfaces\\ibusinesslogicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE715D8-1ED2-458D-8FD1-0A2047EBD982}|src\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:src\\cleanarchitecture.application\\interfaces\\ibusinesslogicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618FD5AB-4E5D-4FC5-800F-8B766500F242}|src\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\strengs\\source\\repos\\cleanarchitecture\\src\\cleanarchitecture.domain\\interfaces\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618FD5AB-4E5D-4FC5-800F-8B766500F242}|src\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:src\\cleanarchitecture.domain\\interfaces\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618FD5AB-4E5D-4FC5-800F-8B766500F242}|src\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\strengs\\source\\repos\\cleanarchitecture\\src\\cleanarchitecture.domain\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618FD5AB-4E5D-4FC5-800F-8B766500F242}|src\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:src\\cleanarchitecture.domain\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\strengs\\source\\repos\\CleanArchitecture\\src\\CleanArchitecture.Presentation\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Presentation\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\strengs\\source\\repos\\CleanArchitecture\\src\\CleanArchitecture.Presentation\\MainWindow.xaml.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Presentation\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAewBsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:07:55.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\strengs\\source\\repos\\CleanArchitecture\\src\\CleanArchitecture.Presentation\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Presentation\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\strengs\\source\\repos\\CleanArchitecture\\src\\CleanArchitecture.Presentation\\MainWindow.xaml",
+              "RelativeToolTip": "src\\CleanArchitecture.Presentation\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-09T06:07:00.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\strengs\\source\\repos\\CleanArchitecture\\src\\CleanArchitecture.Presentation\\App.xaml",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Presentation\\App.xaml",
+              "ToolTip": "C:\\Users\\strengs\\source\\repos\\CleanArchitecture\\src\\CleanArchitecture.Presentation\\App.xaml",
+              "RelativeToolTip": "src\\CleanArchitecture.Presentation\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-09T06:06:02.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\strengs\\source\\repos\\CleanArchitecture\\src\\CleanArchitecture.Presentation\\App.xaml.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Presentation\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\strengs\\source\\repos\\CleanArchitecture\\src\\CleanArchitecture.Presentation\\App.xaml.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Presentation\\App.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:03:15.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\strengs\\source\\repos\\CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\external\\Database.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Infrastructure\\external\\Database.cs",
+              "ToolTip": "C:\\Users\\strengs\\source\\repos\\CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\external\\Database.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Infrastructure\\external\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:01:53.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BusinessLogicService.cs",
+              "DocumentMoniker": "C:\\Users\\strengs\\source\\repos\\CleanArchitecture\\src\\CleanArchitecture.Application\\Services\\BusinessLogicService.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Application\\Services\\BusinessLogicService.cs",
+              "ToolTip": "C:\\Users\\strengs\\source\\repos\\CleanArchitecture\\src\\CleanArchitecture.Application\\Services\\BusinessLogicService.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Application\\Services\\BusinessLogicService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T05:59:43.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBusinessLogicService.cs",
+              "DocumentMoniker": "C:\\Users\\strengs\\source\\repos\\CleanArchitecture\\src\\CleanArchitecture.Application\\Interfaces\\IBusinessLogicService.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Application\\Interfaces\\IBusinessLogicService.cs",
+              "ToolTip": "C:\\Users\\strengs\\source\\repos\\CleanArchitecture\\src\\CleanArchitecture.Application\\Interfaces\\IBusinessLogicService.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Application\\Interfaces\\IBusinessLogicService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T05:58:44.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\strengs\\source\\repos\\CleanArchitecture\\src\\CleanArchitecture.Domain\\Interfaces\\IDatabase.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Domain\\Interfaces\\IDatabase.cs",
+              "ToolTip": "C:\\Users\\strengs\\source\\repos\\CleanArchitecture\\src\\CleanArchitecture.Domain\\Interfaces\\IDatabase.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Domain\\Interfaces\\IDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T05:56:45.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\strengs\\source\\repos\\CleanArchitecture\\src\\CleanArchitecture.Domain\\Models\\Table.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Domain\\Models\\Table.cs",
+              "ToolTip": "C:\\Users\\strengs\\source\\repos\\CleanArchitecture\\src\\CleanArchitecture.Domain\\Models\\Table.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.Domain\\Models\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T05:54:49.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CleanArchitecture.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\strengs\\source\\repos\\CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\strengs\\source\\repos\\CleanArchitecture\\src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+              "RelativeToolTip": "src\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T05:54:05.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

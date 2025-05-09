@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using CleanArchitecture.Application.Interfaces;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -16,8 +17,22 @@ namespace CleanArchitecture.Presentation;
 /// </summary>
 public partial class MainWindow : Window
 {
-    public MainWindow()
+    private readonly IBusinessLogicService businessClassService;
+
+    public MainWindow(IBusinessLogicService service)
     {
         InitializeComponent();
+        this.businessClassService = service;
+    }
+
+    private void btnContent_Click(object sender, RoutedEventArgs e)
+    {
+        var result = businessClassService.DoSomething();
+
+        lbContent.Items.Clear();
+        foreach (var table in result)
+        {
+            lbContent.Items.Add($"Material: {table.Material}, WxL: {table.Width} x {table.Lenght}, Fläche: {Math.Round(table.Width * table.Lenght, 2)} m²");
+        }
     }
 }
